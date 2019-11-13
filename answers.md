@@ -13,6 +13,8 @@ I have to know your name first before responding to that.
 They responded in random ways, such as asking how I was, etc. It was different every time I said asdfghjkl;.
 
 # 1. Can you identify keywords to which your chatbot responds?
-Hello, Hi, Hey, How, Why, 
+Hello, Hi, Hey, How, Why, What is, Are, Where, Which, etc. 
 
 # 2. Think of several keywords and responses they might cause. 
+Hello, they would say hello back. Same with hi or hey. 
+Why, they would respond differently because it depends on what you say after it. Different bots respond differently because of how they were programmed.
